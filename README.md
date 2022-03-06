@@ -2,6 +2,14 @@
 ## Préambule :
 Bonjour à tous, tout le monde sait comment créer une clé USB bootable mais là où cela devient intéressant c'est de voir la ribanbel d'application disponible pour le faire. Parmi de nombreux tests effectués, j'ai eu un certain dévouement sur le projet Ventoy qui est Open Source et franchement j'adore, pour ceux qui auraient suivi ma vidéo sur twitch pour savoir comment  créer votre clé USB personnalisé, je vous donne ci-joint ma configuration afin de vous en servir comme modèle.
 
+Liens Videos
+------------
+    https://casnocensure.site/w/hP1FA4AtfNKAajtHSVUxnM
+    https://www.youtube.com/watch?v=YP9FbyIbPgM
+    https://www.twitch.tv/roystraque
+    https://casagency.fr
+    
+
 #### Commencer par télécharger le fichier iso de ventoy :
 
     https://github.com/ventoy/Ventoy/releases/download/v1.0.70/ventoy-1.0.70-livecd.iso
@@ -13,7 +21,7 @@ Bonjour à tous, tout le monde sait comment créer une clé USB bootable mais l�
 
 
 
-#### Si tous ce passe bien vos devier pouvoir retrouver une partition de votre clé USB nommée ventoy :
+#### Si tous ce passe bien, vous devriez pourvoirent retrouvé une partition de votre clé USB nommée "ventoy" :
 
 ![GithubVentoy01.png](GithubVentoy01.png)
 
