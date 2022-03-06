@@ -10,6 +10,7 @@ Liens Videos
     https://casagency.fr
     https://www.ventoy.net 
     https://www.mobatek.net/labs.html
+    https://www.amazon.fr/dp/B01N7QDO7M?tag=utk-21&linkCode=ogi&th=1&psc=1 (clée usb ScanDisk)
     
 
 #### Commencer par télécharger le fichier iso de ventoy :
