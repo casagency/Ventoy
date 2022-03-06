@@ -8,6 +8,8 @@ Liens Videos
     https://www.youtube.com/watch?v=YP9FbyIbPgM
     https://www.twitch.tv/roystraque
     https://casagency.fr
+    https://www.ventoy.net 
+    https://www.mobatek.net/labs.html
     
 
 #### Commencer par télécharger le fichier iso de ventoy :
